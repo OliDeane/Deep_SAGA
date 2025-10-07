@@ -89,7 +89,6 @@ After successful execution, the system produces:
 | ![labelled_video_screenshot](imgs/deepSagaLabelledFrames.png) | Example frame showing gaze overlay and object labels. |
 | ![summary_chart](imgs/deepSagaOutputChart.png) | Summary statistics visualization of gaze categories. |
 
-*(Replace `path/to/...` with your actual image paths.)*
 
 ---
 
@@ -118,7 +117,7 @@ If you use this repository or system in your research, please cite:
   year    = {2022},
   doi     = {10.3758/s13428-022-01833-4}
 }
-
+```
 
 ## Additional Information
 
